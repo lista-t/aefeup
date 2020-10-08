@@ -1859,6 +1859,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   #minas-laptop{
     display: none;
   }
+  #max_dir{
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-bottom: 2em;
+  }
+  
 }
 
 
@@ -1869,6 +1875,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   #minas-mobile{
     display: none;
   }
+
 }
 
 
